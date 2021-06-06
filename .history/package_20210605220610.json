@@ -36,12 +36,9 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fsulta16/COMP229-Assign1.git"
+    "url": "(https://github.com/fsulta16/COMP229-M2021-Assign1.git)"
   },
   "author": "Farishta Sultani",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/fsulta16/COMP229-Assign1/issues"
-  },
-  "homepage": "https://github.com/fsulta16/COMP229-Assign1#readme"
+  
 }

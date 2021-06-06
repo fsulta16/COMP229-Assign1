@@ -31,17 +31,6 @@
     "@types/jquery": "^3.5.5",
     "@types/morgan": "^1.9.2",
     "@types/node": "^15.12.1"
-  },
-  "description": "Assignment project for COMP229 - Week 4",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/fsulta16/COMP229-Assign1.git"
-  },
-  "author": "Farishta Sultani",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/fsulta16/COMP229-Assign1/issues"
-  },
-  "homepage": "https://github.com/fsulta16/COMP229-Assign1#readme"
+  }
+  
 }
